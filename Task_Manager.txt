@@ -1,0 +1,4 @@
+In this program, we use the sqlite3 library to interact with an SQLite database to store, update, and retrieve task data.
+The user can interact with the program through a simple menu to add, update, delete, and view tasks.
+This exercise demonstrates working with SQLite databases in Python, which is a common task in real work environments for
+data storage and retrieval.
